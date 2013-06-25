@@ -5,5 +5,5 @@ battery-status:
       - pkg: batter-status
 
 
-  pkg.installed:
+  pkg.installed
     
