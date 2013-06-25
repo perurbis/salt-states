@@ -1,9 +1,9 @@
-battery-status:
+battery_status:
   pkgrepo.managed:
     - ppa: iaz/battery-status
     - require_in:
-      - pkg: batter-status
+      - pkg: battery-status
 
-
+battery-status:
   pkg.installed
     
