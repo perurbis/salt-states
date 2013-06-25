@@ -2,8 +2,8 @@ battery-status:
   pkgrepo.managed:
     - ppa: iaz/battery-status
     - require_in:
-      - pkg: emacs
+      - pkg: batter-status
 
 
   pkg.installed:
-    - battery-status
+    
