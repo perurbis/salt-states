@@ -1,4 +1,4 @@
 sys-packages:
   pkg-installed:
-    - pkgs:
+    - names:
       - iperf
