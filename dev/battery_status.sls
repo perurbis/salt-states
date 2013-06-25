@@ -1,4 +1,4 @@
-emacs:
+battery-status:
   pkgrepo.managed:
     - ppa: iaz/battery-status
     - require_in:
