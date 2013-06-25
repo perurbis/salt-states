@@ -4,6 +4,8 @@ battery_status:
     - require_in:
       - pkg: battery-status
 
-battery-status:
-  pkg.installed
+panel:
+  pkg.installed:
+    - names:
+      - indicator-weather
     
